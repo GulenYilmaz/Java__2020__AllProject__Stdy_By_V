@@ -1,4 +1,4 @@
-package Y_Ruby;
+package Y__Ruby_Y_;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
