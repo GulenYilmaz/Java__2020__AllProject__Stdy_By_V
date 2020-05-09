@@ -1,4 +1,4 @@
-package Bayramgul__A;
+package B__Atageldiyeva;
 
 import java.io.FileInputStream;
 import java.io.IOException;

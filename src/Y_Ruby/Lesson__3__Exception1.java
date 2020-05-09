@@ -1,4 +1,4 @@
-package Yakut_Y;
+package Y_Ruby;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

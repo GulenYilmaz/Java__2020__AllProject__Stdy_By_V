@@ -1,4 +1,4 @@
-package Yakut_Y;
+package Y_Ruby;
 
 import java.util.Scanner;
 
