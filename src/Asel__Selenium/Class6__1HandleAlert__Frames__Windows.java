@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Class6__HandleAlert__Frames__Windows {
+public class Class6__1HandleAlert__Frames__Windows {
 public static void main(String[] args) throws InterruptedException {
 	
 	System.setProperty("webdriver.chrome.driver", "C:\\Users\\gulen\\eclipse-workspace\\Selenium__Basics__Classes\\drivers\\chromedriver.exe");
@@ -56,12 +56,7 @@ public static void main(String[] args) throws InterruptedException {
 		element.clear();
 		element.sendKeys("graham");
 		driver.switchTo().defaultContent();//--> go back to window
-		
-	// get set of windows handles
-	Set<String> allwindows=driver.getWindowHandles();
-	System.out.println(allwindows.size());
 	
-		
 		
 }
 }
