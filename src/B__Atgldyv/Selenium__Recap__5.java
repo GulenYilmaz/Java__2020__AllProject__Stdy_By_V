@@ -1,10 +1,10 @@
-package B__Atageldiyeva;
+package B__Atgldyv;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Selenyum__Recap__5 {
+public class Selenium__Recap__5 {
 	
 	
 public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package R__Barindik;
+package R__Brndk;
 
 public class Recap {
 

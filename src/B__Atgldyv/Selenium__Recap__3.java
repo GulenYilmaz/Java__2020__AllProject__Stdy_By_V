@@ -1,4 +1,4 @@
-package B__Atageldiyeva;
+package B__Atgldyv;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class Selenyum__Recap__3 {
+public class Selenium__Recap__3 {
 public static void main(String[] args) throws IOException {
 	
 	

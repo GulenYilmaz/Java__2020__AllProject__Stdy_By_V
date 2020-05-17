@@ -1,10 +1,10 @@
-package B__Atageldiyeva;
+package B__Atgldyv;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Selenyum__Recap__4 {
+public class Selenium__Recap__4 {
 	
 	
 	public static String url="http://166.62.36.207/humanresources/symfony/web/index.php/dashboard";

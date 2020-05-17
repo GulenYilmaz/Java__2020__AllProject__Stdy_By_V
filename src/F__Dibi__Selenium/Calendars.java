@@ -1,4 +1,4 @@
-package F__Dibi__Selenyum;
+package F__Dibi__Selenium;
 
 
 

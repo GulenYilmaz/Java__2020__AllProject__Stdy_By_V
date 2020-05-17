@@ -1,4 +1,4 @@
-package B__Atageldiyeva;
+package B__Atgldyv;
 
 
 
@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class Selenyum__Recap__6 {
+public class Selenium__Recap__6 {
 	
 	public static String url="https://demoqa.com/automation-practice-form/";
 	
