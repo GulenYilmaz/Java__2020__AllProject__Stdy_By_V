@@ -1,4 +1,4 @@
-package Y__Ruby_Y_;
+package Ruby_;
 
 public class Lesson__4__ExpliciyWait {
 

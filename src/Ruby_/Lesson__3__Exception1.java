@@ -1,4 +1,4 @@
-package Y__Ruby_Y_;
+package Ruby_;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
