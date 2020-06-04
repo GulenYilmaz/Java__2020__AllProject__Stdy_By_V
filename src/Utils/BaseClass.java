@@ -12,6 +12,7 @@ public class BaseClass {//main goal is initialize the webdriver
 	// we develope the functions
 	
 	public static WebDriver driver;
+	
 	public  static WebDriver setUp() {
 		
 		ConfigsReader.readProperties(Constants.CONFIGURATION_FILEPATH);
